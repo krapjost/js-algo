@@ -7,11 +7,11 @@ ___
 | [`구현`](#구현) | `33%` |
 | [`BFS/DFS`](#bfsdfs) | `20.9%` |
 | [`그리디`](#그리디) | `19.8%` |
-| [`정렬`](#정렬-(-Sort-)) | `8.2%` |
-| [`동적 프로그래밍`](#동적-프로그래밍-(-dymanic-programming-)) | `8.2%` |
+| [`정렬`](#정렬--Sort-) | `8.2%` |
+| [`동적 프로그래밍`](#동적-프로그래밍--dymanic-programming-) | `8.2%` |
 | [`이진탐색`](#이진탐색) | `3.8%` |
-| `최단 경로` | `3.3%` |
-| `그래프 이론` | `2.7%` |
+| [`최단경로`](#최단경로) | `3.3%` |
+| [`그래프 이론`](#그래프-이론) | `2.7%` |
 
 > 출처 : [코딩 테스트에서는 주로 기초 알고리즘에 기반하는 문제가 출제됩니다.
 그중에서도 가장 출제 빈도가 높은 문제는 그리디(Greedy), 구현(Implementation), DFS/BFS를 활용한 탐색 문제입니다.](https://realhanbit.co.kr/channel/category/category_view.html?cms_code=CMS7793635735)
@@ -98,7 +98,7 @@ brute force한 방법으로 푸는 것은 동일하다.
 [leetcode : binary search \[Easy\]](https://leetcode.com/problemset/algorithms/?difficulty=Easy&topicSlugs=binary-search)
 
 ---
-## 최단 경로
+## 최단경로
 최단 경로부터는 현재는 너무 어려우므로 이런게 있다는 걸 알고만 있기로...
 [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/25/shortestpath/) 
  단일 출발 최단경로 ( 단일 노드에서 출발하여 그래프 내의 모든 다른 노드에 도착하는 최단 경로를 찾는 문제 ) 풀이에는 다익스트라, 벨만-포드 알고리즘이 적합하다.
