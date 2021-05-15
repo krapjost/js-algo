@@ -99,23 +99,29 @@ brute force한 방법으로 푸는 것은 동일하다.
 
 ---
 ## 최단경로
-최단 경로부터는 현재는 너무 어려우므로 이런게 있다는 걸 알고만 있기로...
+최단 경로부터는 현재는 너무 어려우므로 이런게 있다는 걸 알고만 있기로...   
+
 [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/25/shortestpath/) 
  단일 출발 최단경로 ( 단일 노드에서 출발하여 그래프 내의 모든 다른 노드에 도착하는 최단 경로를 찾는 문제 ) 풀이에는 다익스트라, 벨만-포드 알고리즘이 적합하다.
  전체쌍(All-pair) 최단경로 ( 그래프 내 모든 노드 쌍들 사이의 최단 경로를 찾는 문제 ) 풀이에는 플로이드-와샬 알고리즘이 적합하다.
 
  ### 다익스트라 ( Dijkstra algorithm )
- [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dijkstra/)
+ [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dijkstra/)   
+ 
  너비 우선 탐색 ( BFS )를 기본으로 하는 알고리즘
  
  ### 벨만-포드 ( Bellman-Ford's algorithm )
- [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/27/bellmanford/)
+ [상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/27/bellmanford/)   
+ 
  
  ### 플로이드-와샬 
- [상세 설명](https://chanhuiseok.github.io/posts/algo-50/)
+ [상세 설명](https://chanhuiseok.github.io/posts/algo-50/)   
+ 
 
 ---
 ## 그래프 이론
- 위에서 나온 것들이 다 사용되는 듯
+ 위에서 나온 것들이 다 사용되는 듯   
+ 
  [그래프 이론 기초](http://www.kwangsiklee.com/2017/11/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0-%EA%B8%B0%EC%B4%88-%EC%A0%95%EB%A6%AC/)
+ 
 ---
