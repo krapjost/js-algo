@@ -101,7 +101,7 @@ brute force한 방법으로 푸는 것은 동일하다.
 ## 최단경로
 최단 경로부터는 현재는 너무 어려우므로 이런게 있다는 걸 알고만 있기로...   
 
-[상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/25/shortestpath/) 
+[상세 설명](https://ratsgo.github.io/data%20structure&algorithm/2017/11/25/shortestpath/)    
  단일 출발 최단경로 ( 단일 노드에서 출발하여 그래프 내의 모든 다른 노드에 도착하는 최단 경로를 찾는 문제 ) 풀이에는 다익스트라, 벨만-포드 알고리즘이 적합하다.
  전체쌍(All-pair) 최단경로 ( 그래프 내 모든 노드 쌍들 사이의 최단 경로를 찾는 문제 ) 풀이에는 플로이드-와샬 알고리즘이 적합하다.
 
