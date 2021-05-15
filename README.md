@@ -60,6 +60,8 @@ brute force한 방법으로 푸는 것은 동일하다.
       * BFS보다 속도가 느릴 수 있다.
 ---
 ## * 그리디
+[leetcode](https://leetcode.com/problemset/algorithms/?topicSlugs=greedy)
+
  탐욕 알고리즘, 각 단계에서 항상 더 큰 쪽으로 선택한다.
  동적 프로그래밍이 필요 이상의 작업을 수행하게 되는 경우를 보완해 고안된 알고리즘
 
@@ -77,17 +79,25 @@ brute force한 방법으로 푸는 것은 동일하다.
  
 ---
 ### * 정렬 ( Sort )
+[leetcode](https://leetcode.com/problemset/algorithms/?topicSlugs=sort)
+
+데이터를 정렬해야 하는 이유는 [이진탐색](#이진탐색)이 가능하게 만들기 위함.
+이 정렬을 어떻게 더 효율적으로 수행할 수 있을지가 핵심.
+
+
+
 ---
-### * 동적 계획 ( Dynamic Programming )
+### 동적 계획법 ( Dynamic Programming )
+
 ---
-### * 이진 탐색
+## 이진탐색
 ---
-### * 최단 경로
+## 최단 경로
 ---
-### * 그래프 이론
+## 그래프 이론
 ---
 
 
-## 자료구조
+# 자료구조
   ##
                            
